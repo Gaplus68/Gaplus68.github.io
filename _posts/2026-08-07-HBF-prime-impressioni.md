@@ -1,12 +1,16 @@
 ---
 layout: post
 title: "HBF: prime impressioni sulla specifica OCP"
-image: assets/img/_tmb/HBF_512x512.png
+
 date: 2026-08-07
-categories: ai memory storage hbf
+categories: [Hardware, Memory]
 tags: [HBF, AI, UCIe, OCP, NAND, LLM]
 ---
-# HBF: è uscita la prima specifica OCP.
+image: 
+  path: /assets/img/_tmb/HBF_512x512.png
+---
+
+# HBF: disponibile la prima versione della specifica OCP.
 
 Le news uscite in questi giorni su High Bandwidth Flash (HBF) si concentrano sui dettagli da marketing.
 Io sono andato a recuperare la prima bozza della specifica OCP (versione 0.7.0), più di cento pagine
