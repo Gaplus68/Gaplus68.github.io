@@ -40,3 +40,8 @@ HBF è pensato per colmare il divario tra velocità di memoria e capacità richi
 ## Nei prossimi post
 
 Nei prossimi post spero di scendere nei dettagli ed anticipare qualche tema utile per i futuri sviluppi.
+
+## Riferimenti
+
+[Hardware Upgrade 04/08] (https://www.hwupgrade.it/news/memorie/hbf-la-nuova-memoria-tra-hbm-e-ssd-pubblicate-le-prime-specifiche-tecniche-aperte_157285.html)
+[Tom's Hardware Italia 31/07] (https://www.tomshw.it/hardware/le-gpu-potrebbero-avere-terabyte-di-memoria-grazie-alla-flash-hbf)
