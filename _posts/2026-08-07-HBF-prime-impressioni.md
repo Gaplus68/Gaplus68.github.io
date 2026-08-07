@@ -4,7 +4,6 @@ title: "HBF: prime impressioni sulla specifica OCP"
 date: 2026-08-07
 categories: [Hardware, Memory]
 tags: [HBF, AI, UCIe, OCP, NAND, LLM]
----
 image: 
   path: /assets/img/prvw/HBF_191.png
 ---
