@@ -3,15 +3,16 @@ layout: post
 title: "HBF: prime impressioni sulla specifica OCP"
 date: 2026-08-07
 categories: [Hardware, Memory]
-tags: [HBF, AI, UCIe, OCP, NAND, SK hynix, SanDisk]
+tags: [HBF, AI, UCIe, OCP, NAND, SK hynix, SanDisk, FMS 2026]
+description: "Pubblicata la specifica OCP HBF v0.7.0: prime impressioni - UCIe, AXI, KV cache e implicazioni software."
 image: 
   path: /assets/img/prvw/HBF_191.png
 ---
 
-# HBF: disponibile la prima versione della specifica OCP.
+# SK hynix e SanDisk presentano la specifica di un nuovo tipo di memoria flash
 
 Le news uscite in questi giorni su High Bandwidth Flash (HBF) si concentrano sui dettagli da marketing.
-SK hynix and SanDisk, durante l'evento FMS 2026, hanno presentato lo standard HBF (Memoria flash a grande ampiezza di banda)
+SK hynix e SanDisk, durante l'evento FMS 2026, hanno presentato lo standard HBF (Memoria flash a grande ampiezza di banda).
 Ho recuperato la prima versione pubblica della specifica (versione 0.7.0), più di cento pagine, sul sito OCP:
 
 [OCP HBF spec v 0.7.0](https://www.opencompute.org/documents/ocp-hbf-architecture-specification-v0-7-0-final-pdf)
