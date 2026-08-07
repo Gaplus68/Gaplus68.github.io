@@ -43,5 +43,6 @@ Nei prossimi post spero di scendere nei dettagli ed anticipare qualche tema util
 
 ## Riferimenti
 
-[Hardware Upgrade 04/08] (https://www.hwupgrade.it/news/memorie/hbf-la-nuova-memoria-tra-hbm-e-ssd-pubblicate-le-prime-specifiche-tecniche-aperte_157285.html)
-[Tom's Hardware Italia 31/07] (https://www.tomshw.it/hardware/le-gpu-potrebbero-avere-terabyte-di-memoria-grazie-alla-flash-hbf)
+- [Hardware Upgrade 04/08](https://www.hwupgrade.it/news/memorie/hbf-la-nuova-memoria-tra-rime-specifiche-tecniche-aperte_157285.html)
+- [Tom's Hardware Italia 31/07][def]
+[def]: https://www.tomshw.it/hardware/le-gpu-potrebbero-avere-terabyte-di-memoria-grazie-alla-flash-hbf
