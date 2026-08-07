@@ -9,7 +9,7 @@ image:
   path: /assets/img/prvw/HBF_191.png
 ---
 
-# SK hynix e SanDisk presentano la specifica di un nuovo tipo di memoria flash
+## SK hynix e SanDisk presentano HBF
 
 Le news uscite in questi giorni su High Bandwidth Flash (HBF) si concentrano sui dettagli da marketing.
 SK hynix e SanDisk, durante l'evento FMS 2026, hanno presentato lo standard HBF (Memoria flash a grande ampiezza di banda).
