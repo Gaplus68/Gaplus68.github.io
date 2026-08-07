@@ -1,0 +1,42 @@
+---
+layout: post
+title: "HBF: prime impressioni sulla specifica OCP"
+date: 2026-08-07
+categories: ai memory storage hbf
+tags: [HBF, AI, UCIe, OCP, NAND, LLM]
+---
+# HBF: è uscita la prima specifica OCP.
+
+Le news uscite in questi giorni su High Bandwidth Flash (HBF) si concentrano sui dettagli da marketing.
+Io sono andato a recuperare la prima bozza della specifica OCP (versione 0.7.0), più di cento pagine
+
+https://www.opencompute.org/documents/ocp-hbf-architecture-specification-v0-7-0-final-pdf
+
+## Prime impressioni
+
+Non è uno "storage più veloce".
+HBF è integrata strettamente con l'xPU via UCIe, con un proprio Base Die Controller e canali paralleli interni: architettura da memoria, non da storage.
+AXI sopra UCIe rafforza questa lettura: modello più simile a memoria integrata che a un dispositivo NVMe. Da capire l'impatto su software di sistema e runtime.
+Grande spazio al modello di programmazione: la specifica dovrebbe indicare come organizzare e distribuire i dati sui canali per sfruttare il parallelismo.
+
+## Gli spunti di interesse
+
+Il documento porta esempi di carichi di lavoro LLM reali:
+- Parameter Store
+- KV Cache
+- Single/Multiple LLM Serving
+- Mixture of Experts
+
+HBF è pensato per colmare il divario tra velocità di memoria e capacità richiesta dai modelli AI.
+
+## Domande aperte
+
+- Esposizione ai sistemi operativi
+- Ruolo dei driver
+- Nuove API
+- Integrazione con HBM/CXL, NVMe-oC ecc. 
+- Impatto su framework e runtime
+
+## Nei prossimi post
+
+Nei prossimi post spero di scendere nei dettagli ed anticipare qualche tema utile per i futuri sviluppi.
