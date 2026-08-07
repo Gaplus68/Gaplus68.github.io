@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "HBF: prime impressioni sulla specifica OCP"
+image: "/assets/img/_tmb/HBF_512x512.png"
 date: 2026-08-07
 categories: ai memory storage hbf
 tags: [HBF, AI, UCIe, OCP, NAND, LLM]
