@@ -10,7 +10,7 @@ tags: [HBF, AI, UCIe, OCP, NAND, LLM]
 Le news uscite in questi giorni su High Bandwidth Flash (HBF) si concentrano sui dettagli da marketing.
 Io sono andato a recuperare la prima bozza della specifica OCP (versione 0.7.0), più di cento pagine
 
-https://www.opencompute.org/documents/ocp-hbf-architecture-specification-v0-7-0-final-pdf
+[OCP HBF spec v 0.7.0](https://www.opencompute.org/documents/ocp-hbf-architecture-specification-v0-7-0-final-pdf)
 
 ## Prime impressioni
 
