@@ -14,7 +14,7 @@ Santa Clara, 6 agosto. Da qualche parte, nel Convention Center, un acceleratore 
 Non faremo la lista dei trend, gli interventi sono stati tantissimi ed i temi spesso incrociati. 
 Quello che proveremo a fare (con l'aiuto, manca a dirlo, di LLM che incrociano il materiale finora disponibile) è ricostruire lo schema che emerge quando si leggono gli abstract uno dopo l'altro: perché a FMS 2026 la memoria ha smesso di essere un livello della piramide, ed è diventata il tessuto connettivo di tutto il resto.
 
-## La cronaca: tre giorni che azzerano il confine
+## La cronaca: tre giorni che spostano il confine
 
 ### Il leitmotiv: la KV cache come workload di riferimento
 
