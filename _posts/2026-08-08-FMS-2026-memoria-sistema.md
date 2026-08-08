@@ -4,9 +4,9 @@ title: "FMS 2026: la memoria non è più un livello, è un sistema"
 date: 2026-08-08
 categories: [Hardware, Memory]
 tags: [FMS 2026, AI, CXL, KV cache, HBM, HBF, NAND, NVMe, PIM, open source, ds4, @antirez ]
-description: "Dalla crisi della KV cache al CXL memory pooling: cronaca dalla fine dello storage passivo, e perché il nostro codice deve iniziare a pensare in termini di continuum."
-# image:
-#   path: /assets/img/prvw/FMS2026_1200x630.png
+description: "Dalla KV cache ai trend emergentig: cronaca dalla fine dello storage passivo, e perché il codice deve cambiare"
+image:
+  path: /assets/img/prvw/FMS2026_1200x630.png
 ---
 
 Santa Clara, 6 agosto. Da qualche parte, nel Convention Center, un acceleratore da decine di migliaia di dollari sta aspettando i dati. Non è un'immagine retorica: è il problema attorno a cui l'intera industria della memoria e dello storage ha scoperto di aver lavorato per anni nel modo sbagliato. L'agenda del Future of Memory and Storage 2026 — tre giorni, oltre duecentocinquanta interventi tecnici — non parla più solo di IOPS, di layer di NAND, di fattori di forma. Parla di un unico, ingombrante protagonista: l'inferenza AI. E del suo principale nemico: il movimento dei dati.
