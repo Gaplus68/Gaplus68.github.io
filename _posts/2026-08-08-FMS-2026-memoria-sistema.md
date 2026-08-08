@@ -3,7 +3,7 @@ layout: post
 title: "FMS 2026: la memoria non è più un livello, è un sistema"
 date: 2026-08-08
 categories: [Hardware, Memory]
-tags: [FMS 2026, AI, CXL, KV cache, HBM, HBF, NAND, NVMe, PIM, open source, ds4, @antirez ]
+tags: [FMS 2026, AI, CXL, KV cache, HBM, HBF, NAND, NVMe, PIM, open source, ds4, antirez ]
 description: "Dalla KV cache ai trend emergentig: cronaca dalla fine dello storage passivo, e perché il codice deve cambiare"
 image:
   path: /assets/img/prvw/FMS2026_1200x630.png
