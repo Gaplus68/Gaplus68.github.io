@@ -23,6 +23,14 @@ Ho scelto questo nome per i suoi diversi richiami:
 
 Uso la grafia **Ὅλογ** come segno visivo e come legame profondo con l'eredità del greco antico.
 
+## Chi sono
+
+Sono Pierluigi Giuliana: agrigentino, milanista, zio e ingegnere — ma non un *software engineer*. Talvolta rompiscatole e, dicono, parco: il tutto mescolato, non agitato.
+
+> *Things we lost*  
+> *The things we couldn't share*
+> — Tuomas Holopainen, *The Last Sled*
+
 ## Di cosa mi occupo
 
 Esploro più spesso in alcune direzioni:
@@ -34,7 +42,7 @@ Esploro più spesso in alcune direzioni:
 - paper, specifiche tecniche e notizie da approfondire;
 - esperimenti e progetti personali.
 
-Non considero questo un perimetro definitivo. Ὅλογ resta deliberatamente aperto alle deviazioni, alle connessioni inattese e a tutti i territori ancora inesplorati.
+Non considero questo un perimetro definitivo. Ὅλογ resta deliberatamente aperto alle deviazioni, alle connessioni inattese e a tutti i cammini ancora inesplorati.
 
 Per osservazioni, segnalazioni o proposte puoi scrivermi a [info@gaplus68.com](mailto:info@gaplus68.com).
 
