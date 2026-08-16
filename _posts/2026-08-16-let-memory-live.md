@@ -1,8 +1,8 @@
 ---
 title: "Let the memory live again"
-date: 2026-08-15 21:00:00 +0200
-categories: [Neuroscienze, Intelligenza Artificiale]
-tags: []
+date: 2026-08-16 18:00:00 +0200
+categories: [AI, Architetture]
+tags: [Neuroscienze, Memoria, Epigenetica, Reti Neurali, Biologia]
 description: "Viaggio verso nuovi modelli di memoria"
 image:
   path: /assets/img/prvw/Cromatina_1200x630.png
