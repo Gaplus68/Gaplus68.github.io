@@ -6,9 +6,10 @@ tags: [Neuroscienze, Memoria, Epigenetica, Reti Neurali, Biologia]
 description: "Viaggio verso nuovi modelli di memoria"
 image:
   path: /assets/img/prvw/Cromatina_1200x630.png
+  
 ---
 > *Contenuto parzialmente modificato con IA* 
-> Il testo di questo post è stato sottoposto a un trattamento parziale mediante un IA, limitato alla correzione linguistica e ortografica. 
+> Il testo di questo post è stato sottoposto a un trattamento parziale mediante IA, limitato alla correzione linguistica e ortografica. 
 > Il contenuto, la struttura e la responsabilità editoriale del post restano dell'autore. _Art. 50 del Regolamento (UE) 2024/1689 (AI Act)_
 {: .prompt-info }
 
