@@ -50,6 +50,6 @@ Non ho approfondito qui temi complessi come l'epigenetica o i dettagli molecolar
 
 ## Riferimenti
 
-- [Thread originale di Yuxi Ke su X](c)
+- [Thread originale di Yuxi Ke su X](https://x.com/Yuxi_Ke/status/2087215792047915362)
 - [Preprint su bioRxiv](https://www.biorxiv.org/content/10.64898/2026.07.29.741555v1)
 
